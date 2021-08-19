@@ -1,0 +1,72 @@
+*{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;	
+}
+#heading{
+	font-weight:bold;	
+}
+#link{
+	color:white;	
+}
+#footer{
+	height:80px;
+	background-color:#232323;	
+}
+a{	
+	color: #212529;
+	text-decoration:none;
+}
+a:hover{
+	color: #212529;
+	text-decoration:none;	
+}
+.section{
+	height:100vh;
+	background-color:#444444;
+	padding:160px 0 0;	
+}
+.sidebar{
+	background-color:#343a40;
+	padding:56px 0 0;
+	height:100vh;
+	border-right:1px solid #A0A0A0;
+}
+.user-img{
+	height:60px;
+	width:60px;
+	border-radius:50%;	
+}
+.btn-one{
+	height:46px; 
+	width:100%;
+	border:none;
+	background-color:#dcdcdc;
+	font-size:15px;
+	text-align:left;
+	padding-left:10px;
+		
+}
+.btn-one:focus{
+	outline:0px;
+		
+}
+.active{
+	height:46px; 
+	color:white;
+	width:100%;
+	border:none;
+	background-color:#111315;
+	font-size:15px;	
+}
+.btn-one:hover{
+	background-color:#111315;
+	color:white;
+		
+}
+.data-container{
+	height:100vh;
+	background-color:#dcdcdc;
+	padding-top:80px;
+	padding-bottom:60px;
+	overflow:scroll;
+}
+
